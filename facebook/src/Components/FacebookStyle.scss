@@ -1,0 +1,51 @@
+.add-post,.post-list{
+    height: 200px;
+    width: 600px;
+    padding: 8px;
+    margin: 8px;
+    // margin-left: 400px;
+    border: 1px solid rgb(56, 93, 125);
+    border-radius: 10px;
+}
+.wrtitecomment{
+    height: 150px;
+    width: 600px;
+    padding: 8px;
+    margin: 8px;
+    // margin-left: 400px;
+    border: 1px solid rgb(56, 93, 125);
+    border-radius: 10px; 
+}
+.write-text{
+    width: 450px;
+    height: 120px;
+    border: 2px solid rgb(56, 93, 125);
+    border-radius: 10px;
+}
+
+.btn-add-post{
+    background-color: rgb(87, 137, 14);
+    color: white;
+    border-radius: 4px;
+    width: 120px;
+    margin-top: 8px;
+}
+/******/
+
+.btn-like{
+    background-color:  #3b5998;
+    color: white;
+    border-radius: 4px;
+    width: 120px;
+    margin-top: 8px;
+    margin-right: 120px;
+}
+.btn-comment{
+    background-color:  #3f4248;
+    color: white;
+    border-radius: 4px;
+    width: 120px;
+    margin-top: 8px;
+    margin-right: 10px;
+}
+/**/
